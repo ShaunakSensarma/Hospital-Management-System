@@ -1,4 +1,5 @@
-# Hospital-Management-System
+Hospital-Management-System Complete Running Website
+
 1. Download the entire file
 2. Run XAMPP server and start Apache and MySQL.
 3. Open localhost/phpmyadmin
